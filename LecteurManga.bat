@@ -1,0 +1,1 @@
+python "C:\Users\Sylgi\Desktop\Python Temp\LecteurManga\LecteurManga.py"
